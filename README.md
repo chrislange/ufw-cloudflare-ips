@@ -6,7 +6,7 @@ I use CloudFlare for every single website that I personally run. So, I want to m
 
 ## Setup
 `
-git clone https://github.com/chrislange/ufw-cloudflare-ips.git
-cd ufw-cloudflare-ips
-bash setup.sh
+git clone https://github.com/chrislange/ufw-cloudflare-ips.git  
+cd ufw-cloudflare-ips  
+bash setup.sh  
 `
